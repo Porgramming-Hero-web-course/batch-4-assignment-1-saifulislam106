@@ -18,7 +18,7 @@
         email:"s@gmail.com"
    }
 
-//    console.log(updateProfile(myProfile ,{age:28}));
+   console.log(updateProfile(myProfile ,{age:28}));
 
 
 
